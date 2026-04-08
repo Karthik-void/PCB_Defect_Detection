@@ -36,7 +36,7 @@ PCB-DETECTION/
 │── README.md
  Installation
  Clone Repository
-git clone https://github.com/Karthik-void/pcb-detection.git
+git clone https://github.com/Karthik-void/PCB_Defect_Detection.git
 cd pcb-detection
 2️⃣ Install Dependencies
 pip install -r requirements.txt
