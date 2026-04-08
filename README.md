@@ -69,3 +69,7 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 Karthik E
 🌐 Repository
 Hosted on GitHub
+
+Output terminal:
+<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/210c020f-ca53-44b9-95b4-bc657597a391" />
+
